@@ -19,7 +19,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kind-n/elfjs.git"
+        "url": "git+https://github.com/kind-n/elfjs-router.git"
     },
     "scripts": {
         "build": "gulp default"
