@@ -39,3 +39,5 @@ declare module "elfjs" {
         readonly component: (params: any) => Elf.ComponentConstructor | Elf.Promise<Elf.ComponentConstructor>;
     }
 }
+
+export = Elf;
